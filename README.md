@@ -1,2 +1,1 @@
-# Cisco-Network-Infostructure
-This is a project demonstrates a fully function business network infostructure with function VoIP, DCHP and DNS servers, WLAN, Firewalls, and proper redundancy. 
+This project requires Ciscos Packet Tracer to run. Upon launching, wait for the servers and WLAN to be fully active. 
